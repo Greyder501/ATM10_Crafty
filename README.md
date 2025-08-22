@@ -26,7 +26,7 @@
    ```
    5. Creat the `eula.txt` file
    ```
-   sudo echo "eula=True" > eula.txt
+   echo "eula=True" | sudo tee eula.txt
    ```
    6. Run `startserver.sh`
    ```
