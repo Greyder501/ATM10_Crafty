@@ -1,3 +1,7 @@
+# This is no longer maintained, and Crafty has made updates making this process a lot easier. You are now able to just import the ATM10 Server-Files.zip directly into Crafty, without all of this setup. 
+
+```https://docs.craftycontrol.com/pages/user-guide/server-creation/minecraft/#__tabbed_1_3```
+
 # How to install an ATM10 Server with Crafty Controller 
    ## This was done on Ubuntu Server 24.04 
    If you have any suggestions or additions to add for other platforms, let me know.
